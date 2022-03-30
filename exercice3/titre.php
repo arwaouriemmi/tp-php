@@ -14,7 +14,7 @@
    
 </head>
 <div class="container">
-    <form action="http://localhost/amitprograms/exercice3/recap.php" method="post">
+    <form action="recap.php" method="post">
             <div>
             <label for="nom">Nom :</label><input type="text" id="nom" name="nom"  class="form-control" placeholder="nom">
             </div>
