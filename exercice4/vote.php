@@ -8,7 +8,7 @@ else{
     $_SESSION['nb']=1 ;
 ?>
 <meta http-equiv="refresh" content="120
-; url=http://localhost/amitprograms/exercice4/verif.php" />
+; url="verif.php" />
 <link rel="stylesheet" href="node_modules/bootswatch/dist/lux/bootstrap.css">
 <div class="container">
 <form method ="post">
